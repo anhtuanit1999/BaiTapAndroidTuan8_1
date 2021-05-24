@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90748613900",
+    "project_id": "androidtuan9-16219",
+    "storage_bucket": "androidtuan9-16219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90748613900:android:af2b306090864347db0529",
+        "android_client_info": {
+          "package_name": "com.example.baitapandroidtuan8_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90748613900-0gshia5nqvgmpcvn33f51ljksmmnc8l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiTLgSRafBPt3vyv1TI0GxNSdZYf5p44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90748613900-0gshia5nqvgmpcvn33f51ljksmmnc8l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
